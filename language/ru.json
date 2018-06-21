@@ -305,23 +305,23 @@
         },
         {
           "label": "Play title",
-          "default": "Play"
+          "default": "Воспроизвести"
         },
         {
           "label": "Pause title",
-          "default": "Pause"
+          "default": "Пауза"
         },
         {
           "label": "Mute title",
-          "default": "Mute"
+          "default": "Отключить звук"
         },
         {
           "label": "Unmute title",
-          "default": "Unmute"
+          "default": "Включить звук"
         },
         {
           "label": "Video quality title",
-          "default": "Video Quality"
+          "default": "Качество видео"
         },
         {
           "label": "Video captions title",
@@ -329,19 +329,19 @@
         },
         {
           "label": "Close button text",
-          "default": "Close"
+          "default": "Закрыть"
         },
         {
           "label": "Fullscreen title",
-          "default": "Fullscreen"
+          "default": "На полный экран"
         },
         {
           "label": "Exit fullscreen title",
-          "default": "Exit Fullscreen"
+          "default": "Выйти из полноэкранного режима"
         },
         {
           "label": "Summary title",
-          "default": "Summary"
+          "default": "Вопрос"
         },
         {
           "label": "Bookmarks title",
@@ -353,15 +353,15 @@
         },
         {
           "label": "Default label for adaptivity seek button",
-          "default": "Continue"
+          "default": "Готово"
         },
         {
           "label": "Default label for continue video button",
-          "default": "Continue with video"
+          "default": "Продолжить просмотр"
         },
         {
           "label": "Set playback rate",
-          "default": "Playback Rate"
+          "default": "Скорость воспроизведения"
         },
         {
           "label": "Rewind 10 Seconds",
@@ -377,11 +377,11 @@
         },
         {
           "label": "Warning that the user must answer the question correctly before continuing",
-          "default": "You need to answer all the questions correctly before continuing."
+          "default": "Для того, чтобы продолжить, тебе необходимо ответить правильно на все вопросы."
         },
         {
           "label": "Back button",
-          "default": "Back"
+          "default": "Назад"
         },
         {
           "label": "Passed time hours",
@@ -405,7 +405,7 @@
         },
         {
           "label": "Text for explaining navigation hotkey",
-          "default": "Use key k for starting and stopping video at any time"
+          "default": "Остановить или возобновить просмотр видео можно с помощью клавиши К."
         },
         {
           "label": "Text explaining that a single interaction with a name has come into view",
